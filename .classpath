@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/ApacheJMeter_components.jar"/>
+	<classpathentry kind="lib" path="libs/ApacheJMeter_core.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="libs/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="libs/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-annotations-2.2.3.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-coreutils-1.8.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="lib" path="libs/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="libs/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="libs/json-schema-core-1.2.8.jar"/>
+	<classpathentry kind="lib" path="libs/json-schema-validator-2.2.8.jar"/>
+	<classpathentry kind="lib" path="libs/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="libs/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="libs/rhino-1.7R4.jar"/>
+	<classpathentry kind="lib" path="libs/uri-template-0.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
